@@ -4,7 +4,7 @@ function Home() {
     return (
         <div>
             <h2>💸 Nhập chi tiêu mới</h2>
-            <p>Đây là nơi bạn sẽ nhập số tiền và nội dung chi tiêu của bạn.</p>
+            <p>Đây là nơi bạn sẽ nhập số tiền và nội dung chi tiêu của bạn nè.</p>
             {/* Sau này mình sẽ bỏ cái Form vào đây */}
         </div>
     );
